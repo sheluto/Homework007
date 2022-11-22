@@ -1,0 +1,15 @@
+/Users/dagorbacheva/Desktop/Homework007/Lection/obj/Debug/net6.0/Lection.csproj.AssemblyReference.cache
+/Users/dagorbacheva/Desktop/Homework007/Lection/obj/Debug/net6.0/Lection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dagorbacheva/Desktop/Homework007/Lection/obj/Debug/net6.0/Lection.AssemblyInfoInputs.cache
+/Users/dagorbacheva/Desktop/Homework007/Lection/obj/Debug/net6.0/Lection.AssemblyInfo.cs
+/Users/dagorbacheva/Desktop/Homework007/Lection/obj/Debug/net6.0/Lection.csproj.CoreCompileInputs.cache
+/Users/dagorbacheva/Desktop/Homework007/Lection/bin/Debug/net6.0/Lection
+/Users/dagorbacheva/Desktop/Homework007/Lection/bin/Debug/net6.0/Lection.deps.json
+/Users/dagorbacheva/Desktop/Homework007/Lection/bin/Debug/net6.0/Lection.runtimeconfig.json
+/Users/dagorbacheva/Desktop/Homework007/Lection/bin/Debug/net6.0/Lection.dll
+/Users/dagorbacheva/Desktop/Homework007/Lection/bin/Debug/net6.0/Lection.pdb
+/Users/dagorbacheva/Desktop/Homework007/Lection/obj/Debug/net6.0/Lection.dll
+/Users/dagorbacheva/Desktop/Homework007/Lection/obj/Debug/net6.0/refint/Lection.dll
+/Users/dagorbacheva/Desktop/Homework007/Lection/obj/Debug/net6.0/Lection.pdb
+/Users/dagorbacheva/Desktop/Homework007/Lection/obj/Debug/net6.0/Lection.genruntimeconfig.cache
+/Users/dagorbacheva/Desktop/Homework007/Lection/obj/Debug/net6.0/ref/Lection.dll
