@@ -1,0 +1,5 @@
+/Users/dagorbacheva/Desktop/Homework007/RowParse/obj/Debug/net6.0/RowParse.csproj.AssemblyReference.cache
+/Users/dagorbacheva/Desktop/Homework007/RowParse/obj/Debug/net6.0/RowParse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dagorbacheva/Desktop/Homework007/RowParse/obj/Debug/net6.0/RowParse.AssemblyInfoInputs.cache
+/Users/dagorbacheva/Desktop/Homework007/RowParse/obj/Debug/net6.0/RowParse.AssemblyInfo.cs
+/Users/dagorbacheva/Desktop/Homework007/RowParse/obj/Debug/net6.0/RowParse.csproj.CoreCompileInputs.cache
