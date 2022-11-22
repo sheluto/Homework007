@@ -1,0 +1,15 @@
+/Users/dagorbacheva/Desktop/Homework007/chernovik/bin/Debug/net7.0/chernovik
+/Users/dagorbacheva/Desktop/Homework007/chernovik/bin/Debug/net7.0/chernovik.deps.json
+/Users/dagorbacheva/Desktop/Homework007/chernovik/bin/Debug/net7.0/chernovik.runtimeconfig.json
+/Users/dagorbacheva/Desktop/Homework007/chernovik/bin/Debug/net7.0/chernovik.dll
+/Users/dagorbacheva/Desktop/Homework007/chernovik/bin/Debug/net7.0/chernovik.pdb
+/Users/dagorbacheva/Desktop/Homework007/chernovik/obj/Debug/net7.0/chernovik.csproj.AssemblyReference.cache
+/Users/dagorbacheva/Desktop/Homework007/chernovik/obj/Debug/net7.0/chernovik.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dagorbacheva/Desktop/Homework007/chernovik/obj/Debug/net7.0/chernovik.AssemblyInfoInputs.cache
+/Users/dagorbacheva/Desktop/Homework007/chernovik/obj/Debug/net7.0/chernovik.AssemblyInfo.cs
+/Users/dagorbacheva/Desktop/Homework007/chernovik/obj/Debug/net7.0/chernovik.csproj.CoreCompileInputs.cache
+/Users/dagorbacheva/Desktop/Homework007/chernovik/obj/Debug/net7.0/chernovik.dll
+/Users/dagorbacheva/Desktop/Homework007/chernovik/obj/Debug/net7.0/refint/chernovik.dll
+/Users/dagorbacheva/Desktop/Homework007/chernovik/obj/Debug/net7.0/chernovik.pdb
+/Users/dagorbacheva/Desktop/Homework007/chernovik/obj/Debug/net7.0/chernovik.genruntimeconfig.cache
+/Users/dagorbacheva/Desktop/Homework007/chernovik/obj/Debug/net7.0/ref/chernovik.dll
